@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shivansh1203.github.io/Shivansh_Portfolio/](https://shivansh1203.github.io/Shivansh_Portfolio/)
 
-- 💬 Ask me about **Web , Machine Learning**
+- 💬 Ask me about **Web Development , Machine Learning**
 
 - 📫 How to reach me **shivansh.rastogi2002@gmail.com**
 
