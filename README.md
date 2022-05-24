@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Node, MongoDb**
+- 🌱 I’m currently learning **NodeJs, MongoDb**
 
 - 👨‍💻 All of my projects are available at [https://shivansh1203.github.io/Shivansh_Portfolio/](https://shivansh1203.github.io/Shivansh_Portfolio/)
 
