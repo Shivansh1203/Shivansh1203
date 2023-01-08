@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/shivansh-rastogi-04bb27225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/shivanshrastogi1203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC-Et3-fagHHWUSA2-3jG5eQ" target="blank"><img align="center" src="file:///C:/Users/15seg1001tu/Downloads/youtube-icon.svg" alt="YouTube" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC-Et3-fagHHWUSA2-3jG5eQ" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
