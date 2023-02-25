@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivansh Rastogi</h1>
 <h3 align="center">A passionate Web developer and ML enthusiast from India</h3>
 <!-- <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
+<script src="https://unpkg.com/@lottiefiles/lottie-player@1.5.7/dist/lottie-player.js"></script>
 
 <lottie-player
   autoplay
