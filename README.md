@@ -3,7 +3,7 @@
 <!-- <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
   <a href="https://github.com/Shivansh1203/Shivansh1203">
-    <img src="images\code_gif.gif" alt="Logo" width="80" height="80">
+    <img src="images_readme/code_gif.gif" alt="Logo" width="80" height="80">
   </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivansh1203&label=Profile%20views&color=0e75b6&style=flat" alt="shivansh1203" /> </p>
 
