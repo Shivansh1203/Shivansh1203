@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **shivansh.rastogi2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oZNsunKBtwXjuHJgmUsEGw3LR6UnAeRm/view?usp=sharing](https://drive.google.com/file/d/1oZNsunKBtwXjuHJgmUsEGw3LR6UnAeRm/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mXIWM--XRqocwpXZpJq1kL8qpADbrTV3/view?usp=share_link](https://drive.google.com/file/d/1mXIWM--XRqocwpXZpJq1kL8qpADbrTV3/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
