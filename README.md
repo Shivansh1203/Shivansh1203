@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJs, MongoDb**
+- 🌱 I’m currently focussing on **DSA and Machine Learning**
 
 - 👨‍💻 My Portfolio Website- [https://shivansh1203.github.io/Shivansh_Portfolio/](https://shivansh1203.github.io/Shivansh_Portfolio/)
 
-- 💬 Ask me about **Web Development , Machine Learning**
+- 💬 Ask me about **Web Development and Machine Learning**
 
 - 📫 How to reach me **shivansh.rastogi2002@gmail.com**
 
