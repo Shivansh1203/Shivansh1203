@@ -57,9 +57,14 @@
 <h3 align="center">
 <img src="https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg">
 </h3>
-
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=shivansh1203&show_icons=true&locale=en&layout=compact" alt="shivansh1203" /></p>
-
+<h1 align="center">📈 My Stats</h1>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shivansh1203&show_icons=true&locale=en" alt="shivansh1203" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh1203&" alt="shivansh1203" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh1203&" alt="shivansh1203" /></p>
+ 
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=shivansh1203&show_icons=true&locale=en&layout=compact" alt="shivansh1203" /></p>
+
+<div style="text-align:center;">
+  <img src="https://drive.google.com/uc?export=view&id=1bFJnBVw_cGhZfZ6RrQCufVTu9eOksq29" alt="End">
+</div>
+
