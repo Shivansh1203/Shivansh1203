@@ -3,7 +3,7 @@
   <img src="https://drive.google.com/uc?export=view&id=1C0YMpDVzgi-PuuqKZ4vAgVT1-RGqaBAA" alt="Header">
 </div> -->
 <p align="center">
-<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+Tech+Geeks+🌎;Welcome+to+my+GitHub+Profile+😇;Feel+free+to+look+around+😌;Reach+me+out+🤗;Fuel+Your+Passion+😊"></a>
+<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+Tech+Geeks+🌎;Welcome+to+my+GitHub+Profile+😇;Explore+freely+╰(*°▽°*)╯;Reach+me+out+✌️;Fuel+Your+Passion+😊"></a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Shivansh Rastogi</h1>
