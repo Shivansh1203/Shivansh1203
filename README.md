@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **shivansh.rastogi2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mXIWM--XRqocwpXZpJq1kL8qpADbrTV3/view?usp=share_link](https://drive.google.com/file/d/1mXIWM--XRqocwpXZpJq1kL8qpADbrTV3/view?usp=share_link)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1mXIWM--XRqocwpXZpJq1kL8qpADbrTV3/view?usp=share_link)
 
 <!-- <img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-Shivansh1203&style=flat-square&color=22CCB2"> -->
 <hr>
