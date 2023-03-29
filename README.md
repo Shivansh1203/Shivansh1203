@@ -57,7 +57,7 @@
 <hr>
 
 <h3 align="center">
-<img src="https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/Shivansh1203/Shivansh1203/blob/main/snk.svg">
 </h3>
 <h1 align="center">📈 My Stats</h1>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shivansh1203&show_icons=true&locale=en" alt="shivansh1203" /></p>
