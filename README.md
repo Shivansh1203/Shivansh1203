@@ -1,4 +1,4 @@
-![Header](https://drive.google.com/uc?export=view&id=1r1wYAY3216AGN03nvaVMpIFxFdwqJEvT)
+![Header](https://github.com/Shivansh1203/Shivansh1203/blob/main/github-header-image.png)
 <!-- <div style="text-align:center;">
   <img src="https://drive.google.com/uc?export=view&id=1C0YMpDVzgi-PuuqKZ4vAgVT1-RGqaBAA" alt="Header">
 </div> -->
