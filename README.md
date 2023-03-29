@@ -25,6 +25,8 @@
 
 - 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1ry88yTkWvbVSNAgLZlCLofkSnY08YhWK/view?usp=share_link)
 
+- 🏆 T-AIM NASSCOM Capgemini Hackathon WINNER [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7043313518246342656/)
+
 <!-- <img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-Shivansh1203&style=flat-square&color=22CCB2"> -->
 <hr>
 <br>
