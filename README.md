@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently focussing on **DSA and Machine Learning**
 
-- 👨‍💻 My Portfolio Website- [Portfolio](https://shivansh1203.github.io/Shivansh_Portfolio/)
+- 👨‍💻 My Portfolio Website - [Portfolio](https://shivansh1203.github.io/Shivansh_Portfolio/)
 
 - 💬 Ask me about **Web Development and Machine Learning**
 
