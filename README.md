@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **shivansh.rastogi2002@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1ry88yTkWvbVSNAgLZlCLofkSnY08YhWK/view?usp=share_link)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1mXIWM--XRqocwpXZpJq1kL8qpADbrTV3/view?usp=share_link)
 
 - 🏆 T-AIM NASSCOM Capgemini Hackathon WINNER [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7043313518246342656/)
 
