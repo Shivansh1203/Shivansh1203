@@ -67,6 +67,7 @@
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=shivansh1203&show_icons=true&locale=en&layout=compact" alt="shivansh1203" /></p>
 
 <div style="text-align:center;">
-  <img src="https://github.com/Shivansh1203/Shivansh1203/blob/main/end%20banner.png" alt="End">
+  <img src="https://drive.google.com/uc?export=view&id=1bFJnBVw_cGhZfZ6RrQCufVTu9eOksq29" alt="End">
+<!--   https://github.com/Shivansh1203/Shivansh1203/blob/main/end%20banner.png -->
 </div>
 
