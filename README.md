@@ -53,7 +53,8 @@
 <hr>
 <h1 align="center">📈 GitHub Contribution Graph</h1>
 
-[![Shivansh Rastogi github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shivansh1203&theme=github)](https://github.com/shivansh1203/github-readme-activity-graph)
+<!-- [![Shivansh Rastogi github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shivansh1203&theme=github)](https://github.com/shivansh1203/github-readme-activity-graph) -->
+[![Shivansh Rastogi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivansh1203&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr>
 
