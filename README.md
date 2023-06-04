@@ -26,7 +26,7 @@
 
 - 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1mXIWM--XRqocwpXZpJq1kL8qpADbrTV3/view?usp=share_link)
 
-- 🏆 T-AIM NASSCOM Capgemini Hackathon WINNER(Cash Prize-Rs. 5,00,000/-)[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7043313518246342656/)
+- 🏆 T-AIM NASSCOM Capgemini Hackathon WINNER(Cash Prize: Rs.5,00,000/-) [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7043313518246342656/)
 
 <!-- <img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-Shivansh1203&style=flat-square&color=22CCB2"> -->
 <hr>
