@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **shivansh.rastogi2002@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1mXIWM--XRqocwpXZpJq1kL8qpADbrTV3/view?usp=share_link)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1U4vjcNDewbWb0-UXZOqeO_rA5DCF_NU7/view?usp=drive_link)
 
 - 🏆 T-AIM NASSCOM Capgemini Hackathon WINNER(Cash Prize: Rs.5,00,000/-) [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7043313518246342656/)
 
